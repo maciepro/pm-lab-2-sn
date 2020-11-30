@@ -13,7 +13,7 @@ int main(){
     }
     for (uint8_t i = 1; i < (LED_LENGTH - 1); i++){
       PORTD = (PORTD >> 1);
-      for (uint32_t j = 0x1FFFF; j > 0; k--)
+      for (uint32_t j = 0x1FFFF; j > 0; j--)
       {
         asm volatile("nop");
       }
