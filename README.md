@@ -13,4 +13,5 @@ Numer albumu: 72547
 Grupa studencka: WELE18DES1
 
 # Pytania do zadań z instrukcji
-
+1. W jaki sposób można określić czas trwania opóźnienia zrealizowanego z użyciem pętli?
+Odp: Za pomocą funkcji delay można robić opóźnienia w pętli.
